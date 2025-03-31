@@ -1,3 +1,15 @@
+Rama-Richard
+Prueba proyecto compartido y cambios en equipo
+Probando 
 Hola
 ¿ Como estas ?
+
 print("Hello World")
+
+bien y tu como estas ?
+KAREN
+Hola Karen
+this is karen talking
+Bien gracias, ¿qué haces?
+
+
