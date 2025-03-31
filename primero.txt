@@ -8,12 +8,16 @@ print("Hello World")
 
 bien y tu como estas ?
 
-Hola claudia
+melo.
 =======
+
+Hola claudia
+
 KAREN
 Hola Karen
 this is karen talking
 Bien gracias, ¿qué haces?
+
 
 
 
